@@ -1,2 +1,2 @@
 # CrashTestDummy
-Learn to Triage Crash Tests an Use Windbg
+Learn to Triage Crash Tests , Use Windbg
